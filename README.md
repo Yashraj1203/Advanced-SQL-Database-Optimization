@@ -1,5 +1,7 @@
 # Advanced SQL Analytics & Query Optimization
 
+## Dev/creator = Yashraj1203
+
 ## Project Overview
 
 This project uses a Spotify music dataset as a practical case study for **advanced PostgreSQL analytics and query performance optimization**.
@@ -236,18 +238,11 @@ Spotify-Data-Analysis-using-SQL/
 - Performance Benchmarking
 - Analytical Reasoning
 
-## How to Run
-
-1. Install PostgreSQL and a SQL client such as pgAdmin.
-2. Load `cleaned_dataset.csv` into the `spotify` table using `sql/01_schema_and_setup.sql`.
-3. Run `sql/02_analytical_queries.sql` for the analytical query set.
-4. Run `sql/03_query_optimization.sql` to reproduce the indexing and performance-analysis workflow.
-5. Review the execution plans and compare the results with the historical benchmark recorded above.
 
 ## Source
 
-The original project references the Spotify dataset available through Kaggle.
+The reference Spotify dataset available through Kaggle.
 
 ## License
 
-See the repository's current license metadata for licensing status.
+MIT
